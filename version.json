@@ -1,4 +1,5 @@
-{
+[
+  {
     "version": "1.0.2-beta",
     "download_url": "https://github.com/Xepxc/Discord-Aura-theme/releases/download/v1.0.2beta/Discord-Aura.css"
   },
@@ -6,3 +7,4 @@
     "version": "1.0.3-beta",
     "download_url": "https://github.com/Xepxc/Discord-Aura-theme/releases/download/v1.0.3beta/Discord-Aura.css"
   }
+]
