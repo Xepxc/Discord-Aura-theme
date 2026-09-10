@@ -10,5 +10,9 @@
   {
     "version": "1.0.4-beta",
     "download_url": "https://github.com/Xepxc/Discord-Aura-theme/releases/download/v1.0.4-beta/Discord-Aura.css"
-  }
+  },
+  {
+    "version": "1.0.4-beta-fix",
+    "download_url": "https://github.com/Xepxc/Discord-Aura-theme/releases/download/v1.0.4-beta-fix/Discord-Aura.css"
+  } 
 ]
