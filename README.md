@@ -85,4 +85,8 @@ This theme relies on a combination of:
 
 ## Credits
 
-- [Xepxc](https://github.com/Xepxc) — original author of the Discord Aura theme.
+- [Xepxc](https://github.com/Xepxc) — original author of the Discord Aura theme
+
+## License
+
+See the license of the original [Discord Aura](https://github.com/Xepxc/Discord-Aura-theme) theme.
