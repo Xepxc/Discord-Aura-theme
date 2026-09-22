@@ -1312,11 +1312,12 @@ code {
 
 .membersGroup_c8ffbb {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   color: var(--hsl-main-color);
   font-weight: 700;
-  align-items: center;
   background: hsl(from var(--hsl-main-color) h s l / 0.1);
-  padding: 4px 10px;
+  padding: 6px 10px;
   border-radius: 4px;
   margin: 4px 8px;
 }
