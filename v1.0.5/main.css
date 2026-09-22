@@ -1310,7 +1310,7 @@ code {
   background: var(--hsl-card-shading);
 }
 
-.membersGroup_c8ffbb {
+[class*="membersGroup"] {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -1322,8 +1322,8 @@ code {
   margin: 4px 8px;
 }
 
-.membersGroup_c8ffbb:before,
-.membersGroup_c8ffbb:after {
+[class*="membersGroup"]:before,
+[class*="membersGroup"]:after {
   display: none;
 }
 
