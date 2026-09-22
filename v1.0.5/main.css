@@ -1310,21 +1310,27 @@ code {
   background: var(--hsl-card-shading);
 }
 
-[class*="membersGroup"] {
+.membersGroup_c8ffbb {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
   color: var(--hsl-main-color);
   font-weight: 700;
-  background: hsl(from var(--hsl-main-color) h s l / 0.1);
-  padding: 6px 10px;
-  border-radius: 4px;
-  margin: 4px 8px;
+  align-items: center;
 }
 
-[class*="membersGroup"]:before,
-[class*="membersGroup"]:after {
-  display: none;
+.membersGroup_c8ffbb:before {
+  content: "";
+  height: 2px;
+  flex-grow: 1;
+  background: linear-gradient(to left, currentColor 50%, transparent);
+  margin-right: 5px;
+}
+
+.membersGroup_c8ffbb:after {
+  content: "";
+  height: 2px;
+  flex-grow: 1;
+  background: linear-gradient(to right, currentColor 50%, transparent);
+  margin-left: 5px;
 }
 
 .container__0f2e8 {
