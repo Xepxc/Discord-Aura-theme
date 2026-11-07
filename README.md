@@ -2,6 +2,7 @@
 
 A customized build of the **Discord Aura** theme for BetterDiscord/Vencord — a deep night-themed interface with a blue accent palette, extended with a set of additional visual refinements on top of the original.
 
+> ## ⚠️ OUTDATED
 
 [![Version](https://img.shields.io/github/v/release/Xepxc/Discord-Aura-theme?include_prereleases&color=00aaff)](https://github.com/Xepxc/Discord-Aura-theme/releases/tag/v1.0.5-beta)
 ![Theme](https://img.shields.io/badge/base-Discord%20Aura-blue)
